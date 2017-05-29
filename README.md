@@ -1,5 +1,5 @@
 # WeexTemplate
-[中文文档点我](https://github.com/devilthrone/WeexTemplate/README-cn.md)
+[中文文档点我](https://github.com/devilthrone/WeexTemplate/blob/master/README-cn.md)
 
 Create Weex(.we or .vue) File  Conveniently Form Weex Template for SublimeText 
 
