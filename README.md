@@ -1,4 +1,6 @@
 # WeexTemplate
+[中文文档点我](https://github.com/devilthrone/WeexTemplate/README-cn.md)
+
 Create Weex(.we or .vue) File  Conveniently Form Weex Template for SublimeText 
 
 Feature
@@ -16,11 +18,11 @@ Installation
 
 * clone this repository:
 
-    $ git clone https://github.com/kairyou/SublimeTmpl.git
+    $ git clone https://github.com/devilthrone/WeexTemplate.git
     
 * On the Sublime Text Menu, Go to `Preferences` / `Browse Packages`, open the "Packages" directory.
  
-* Copy the project cloned form github onto "Packages" directory, and rename to "Weex"
+* Copy the project cloned form github onto "Packages" directory, and rename to "WeexTemplate"
 
 Usage
 -----
@@ -33,12 +35,12 @@ Usage
 
     --------------------
         MacOs platform:
-        command+ctrl+w   .we file
-        command+ctrl+e   .vue file
+        command+ctrl+w   create .we file
+        command+ctrl+e   create .vue file
         
         Window platform:
-        ctrl+alt+w   .we file
-        ctrl+alt+e   .vue file
+        ctrl+alt+w       create .we file
+        ctrl+alt+e       create .vue file
         
 - Customize shortcut key        
 you can modify the shortcut key by  
@@ -50,19 +52,19 @@ you can modify the shortcut key by
                [
                	
                    {
-                       "keys": ["shift+command+w"], "command": "weex",
-                       "args": {"type": "weex"}, "context": [{"key": "weex.weex"}]
+                       "keys": ["shift+command+w"], "command": "weex_template",
+                       "args": {"type": "weex"}, "context": [{"key": "weex_template.weex"}]
                    },
                     {
-                       "keys": ["shift+command+e"], "command": "weex",
-                       "args": {"type": "vue"}, "context": [{"key": "weex.vue"}]
+                       "keys": ["shift+command+e"], "command": "weex_template",
+                       "args": {"type": "vue"}, "context": [{"key": "weex_template.vue"}]
                    }
                    
                ]
 
-- Customize weex templte
+- Customize weex template
 
- Default template files in : Packages/Weex/templates/vue.tmpl, you can customize the weex template file: 
+ Default template files in : Packages/WeexTemplate/templates/vue.tmpl, you can customize the weex template file: 
  
-`Packages/User/Weex/templates/vue.tmpl ` (create directory if not exist )
+`Packages/User/WeexTemplate/templates/vue.tmpl ` (create directory if not exist )
 
