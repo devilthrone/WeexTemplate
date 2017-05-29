@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Create Weex File", "command": "weex_template",
+        "args": {"type": "weex"}
+    },
+     {
+        "caption": "Create Vue File", "command": "weex_template",
+        "args": {"type": "vue"}
+    }
+]

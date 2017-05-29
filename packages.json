@@ -1,0 +1,20 @@
+{
+    "schema_version": "1.2",
+    "packages": [
+        {
+            "name": "WeexTemplate",
+            "description": "Create Weex(.we or .vue) File  Conveniently Form Weex Template for SublimeText.",
+            "author": "fastman",
+            "homepage": "https://github.com/devilthrone/WeexTemplate",
+            "last_modified": "2017-05-28 19:55:00",
+            "platforms": {
+                "*": [
+                    {
+                        "version": "1.0.0",
+                        "url": "https://nodeload.github.com/devilthrone/WeexTemplate/zip/master"
+                    }
+                ]
+            }
+        }
+    ]
+}

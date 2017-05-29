@@ -1,0 +1,40 @@
+[
+    {
+        "id": "weex",
+        "caption": "New File (Weex)",
+        "children":
+        [
+            {
+                "id": "weex",
+                "caption": "weex(.we)",
+                "command": "weex_template",
+                "args": {
+                    "type": "weex",
+                    "paths": [],
+                }
+            },
+           {
+                "id": "vue",
+                "caption": "weex(.vue)",
+                "command": "weex_template",
+                "args": {
+                    "type": "vue",
+                    "paths": [],
+                }
+            },
+            {"caption": "-"},
+            {
+                "id": "menu",
+                "command": "open_file",
+                "args": {"file": "${packages}/WeexTemplate/Side Bar.sublime-menu"},
+                "caption": "Side Bar Menu – Default"
+            },
+            {
+                "id": "menu",
+                "command": "open_file",
+                "args": {"file": "${packages}/User/WeexTemplate/Side Bar.sublime-menu"},
+                "caption": "Side Bar Menu – User"
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+{
+  "sublime_text": "*",
+  "platforms": [
+    "*"
+  ],
+  "dependencies": [],
+  "version": "1.0.0",
+  "description": "Create Weex(.we or .vue) File Conveniently Form Weex Template for SublimeText",
+  "url": "https://github.com/devilthrone/WeexTemplate"
+}

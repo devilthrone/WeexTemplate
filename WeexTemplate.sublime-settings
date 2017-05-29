@@ -1,0 +1,19 @@
+{
+    "vue": {
+        "syntax": "Packages/WeexTemplate/Vue.tmLanguage",
+        "extension": "vue" // default_extension
+    },
+      "weex": {
+        "syntax": "Packages/WeexTemplate/Weex.tmLanguage",
+        "extension": "weex"
+    },
+    "disable_keymap_actions": false, // "all"; "html,css"
+    "enable_project_variables": false, // ${project_base_name}, ${project_path} and ${platform}
+    "enable_file_variables_on_save": false, // ${saved_filename}, ${saved_filepath} on save file
+    "date_format" : "%Y-%m-%d %H:%M:%S",
+    "attr": {
+        "author": "Your Name",
+        "email": "you@example.org",
+        "desc": "weex vue page"
+    }
+}

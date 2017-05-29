@@ -1,0 +1,12 @@
+[
+	
+    {
+        "keys": ["ctrl+command+w"], "command": "weex_template",
+        "args": {"type": "weex"}, "context": [{"key": "weex_template.weex"}]
+    },
+     {
+        "keys": ["ctrl+command+e"], "command": "weex_template",
+        "args": {"type": "vue"}, "context": [{"key": "weex_template.vue"}]
+    }
+    
+]
