@@ -14,7 +14,9 @@
 ------------
 **Package Control(墙裂推荐)**
 
-打开Sublime Package Controll(快捷键 shift+command+P)，输入Install Package加载插件库列表，然后搜索WeexTemplate回车 搞定！
+* 打开Sublime Package Controll(快捷键 shift+command+P)
+* 输入Install Package加载插件库列表
+* 搜索WeexTemplate回车 搞定！
 
 **Github**
 
